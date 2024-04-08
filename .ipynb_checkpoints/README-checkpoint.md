@@ -1,4 +1,3 @@
-# Versão por <Romeu>
 # Analyzing Presidential Card Expenses from Brazil
 
 This Jupyter Notebook aims to analyze the presidential card expenses of the President of Brazil using official data. The notebook utilizes Python libraries such as Pandas and Matplotlib for data manipulation and visualization.
